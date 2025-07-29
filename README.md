@@ -1,9 +1,9 @@
 ### Square Alphabet Pattern
 
 
-Sample Input
+### Sample Input
 4
-Your Output
+### Your Output
 A B C D 
 A B C D 
 A B C D 
